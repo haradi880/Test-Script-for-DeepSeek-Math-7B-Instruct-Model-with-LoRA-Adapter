@@ -119,9 +119,9 @@ This is crucial for getting the intended solution-style output, as the model was
 | Platform | Link |
 | :--- | :--- |
 | **Kaggle** | [Haradi Bots | Kaggle](https://www.kaggle.com/haradibots) |
-| **LoRA Model on Kaggle Hub** | [Haradi Bots | Math solving hard lora | Kaggle](https://www.google.com/search?q=https://www.kaggle.com/models/haradibots/math-solving-hard-lora) |
+| **LoRA Model on Kaggle Hub** | [Haradi Bots | Math solving hard lora | Kaggle](https://www.kaggle.com/models/haradibots/math-solving-hard-lora) |
 | **GitHub** | [https://github.com/haradi880](https://github.com/haradi880) |
-| **Instagram** | [(3) Instagram](https://www.google.com/search?q=https://www.instagram.com/haradi880) |
+| **Instagram** | [(3) Instagram](https://www.instagram.com/haradi880) |
 
 
 ## Haradibots - Aditya
